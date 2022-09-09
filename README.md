@@ -9,3 +9,6 @@ gvk Elektroniskā klade or smsht
 [This is an image](https://medias.pylones.com/37363-large_default/toaster-with-european-plug-toast-in-2.jpg)
 
 # Gongaga
+ -Gon
+-gaga
+
