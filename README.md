@@ -12,3 +12,7 @@ gvk Elektroniskā klade or smsht
  - Gon
 - Gaga
 
+# Importante 
+
+(https://static.wikia.nocookie.net/thesims4memehouse/images/6/66/VargFREN.png/revision/latest?cb=20200103002308)
+
