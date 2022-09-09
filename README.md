@@ -14,5 +14,5 @@ gvk Elektroniskā klade or smsht
 
 # Importante 
 
-!(https://static.wikia.nocookie.net/thesims4memehouse/images/6/66/VargFREN.png/revision/latest?cb=20200103002308)
+![This is an image](https://static.wikia.nocookie.net/thesims4memehouse/images/6/66/VargFREN.png/revision/latest?cb=20200103002308)
 
