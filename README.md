@@ -34,3 +34,4 @@ gvk Elektroniskā klade or smsht
 - echo ,echo echo yeah whatever , make text files?
 - mdkir , make directory 
 - mv , move 
+- To be continued 
