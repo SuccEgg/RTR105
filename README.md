@@ -18,3 +18,19 @@ gvk Elektroniskā klade or smsht
 
 
 # History
+
+- who , 
+- whoami , 
+- last
+- pwd , ceļš?
+- history , history, nuff said
+- ls
+- snap
+- echo $0
+- sh , :(
+- bash , :)
+- ls -l -a , show content
+- cd , ceļošana?
+- echo ,echo echo yeah whatever , make text files?
+- mdkir , make directory 
+- mv , move 
