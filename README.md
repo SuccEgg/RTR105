@@ -33,5 +33,6 @@ gvk Elektroniskā klade or smsht
 - cd , ceļošana?
 - echo ,echo echo yeah whatever , make text files?
 - mdkir , make directory 
-- mv , move 
+- mv , move
+- man [example], what dis do? Info, etc 
 - To be continued 
