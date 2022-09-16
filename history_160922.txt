@@ -1,0 +1,44 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ps aux
+    4  man ps
+    5  echo
+    6  echo echo
+    7  git clone https://github.com/SuccEgg/RTR105
+    8  LS -LT
+    9  ls -lt
+   10  pwd
+   11  cd /rtr1-5
+   12  cd RTR105/
+   13  pwd
+   14  cd user
+   15  cd /user
+   16  cd .
+   17  cd ..
+   18  pwd
+   19  man rmdir
+   20  man rm
+   21  git clone https://github.com/SuccEgg/RTR105 Booga
+   22  ls lt
+   23  ls -lt
+   24  man rm
+   25  rm --force Booga
+   26  rmdir booga
+   27  ls -lt
+   28  rm
+   29  rm man
+   30  man rm
+   31  rm Booga
+   32  rm -force Booga
+   33  rm --force Booga
+   34  rmdir --force Booga
+   35  man rm
+   36  rm -f Booga
+   37  rmdir -f Booga
+   38  man rm
+   39  rm -fr Booga
+   40  ls -lt
+   41  history
+   42  history > history_160922.txt
+
+
