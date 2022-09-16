@@ -35,4 +35,7 @@ gvk Elektroniskā klade or smsht
 - mdkir , make directory 
 - mv , move
 - man [example], what dis do? Info, etc 
+- cat
+- nano
+
 - To be continued 
