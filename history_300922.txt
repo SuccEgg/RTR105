@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  mahjong
+    4  git clone
+    5  git clone https://github.com/SuccEgg/RTR105
+    6  pwd
+    7  ls -l
+    8  cd RTR105/
+    9  ls -l
+   10  Mkdir Class_06
+   11  mkdir Class_06
+   12  ls -l
+   13  cd Class_06/
+   14  nano pirm.c
+   15  ls -l
+   16  car first.c
+   17  cat first.c
+   18  ls -l
+   19  cat pirm.c
+   20  gcc pirm.c 
+   21  ls -lt
+   22  cat a.out 
+   23  ./a.out 
+   24  gcc pirm.c -o pirm.out
+   25  ls -lt
+   26  ./pirm.out 
+   27  cd ..
+   28  nano .gitignore
+   29  ls -lt
+   30  ls -l
+   31  ls
+   32  cd Class_06/
+   33  nano pirm.
+   34  ls -lt
+   35  nano pirm.c
+   36  ls -lt
+   37  gcc -save-temps pirm.c -o pirm.out
+   38  cat first.i
+   39  ls -lt
+   40  cat pirm.i
+   41  cat pirm.s
+   42  nano pirm.c
+   43  gcc -save-temps pirm.c -o pirm.out
+   44  ls -lt
+   45  cat pirm.o
+   46  cat pirm.c
+   47  cat pirm.i
+   48  nano pirm.c
+   49  gcc -save-temps pirm.c -o pirm.out
+   50  ls -lt
+   51  echo #?
+   52  echo $?
+   53  ./first.out
+   54  ./pirm.out
+   55  echo $?
+   56  nano pirm.c
+   57  gcc -save-temps pirm.c -o pirm.out
+   58  ls -lt
+   59  nano pirm.c
+   60  gcc -save-temps pirm.c -o pirm.out
+   61  ls -lt
+   62  cd..
+   63  cd ..
+   64  nano .gitignore
+   65  history . history_300922.txt
+   66  history >  history_300922.txt
