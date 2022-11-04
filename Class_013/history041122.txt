@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git-get 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
+    4  git-get https://github.com/SuccEgg/RTR105
+    5  git clone https://github.com/SuccEgg/RTR105
+    6  cd RTR105/
+    7  mkdir Class_013
+    8  cd Class_013
+    9  nano user_functions_test.c
+   10  gcc user_functions_test.c 
+   11  nano user_functions_test.c
+   12  gcc user_functions_test.c 
+   13  ./a.out 
+   14  nano user_functions_test.c
+   15  gcc user_functions_test.c 
+   16  ./a.out 
+   17  5
+   18  ./a.out 
+   19  nano user_functions_test.c
+   20  gcc user_functions_test.c 
+   21  ./a.out 
+   22  nano user_functions_test.c
+   23  cd RTR105/
+   24  cd Class_013
+   25  nano user_functions_test.c
+   26  gcc user_functions_test.c 
+   27  nano user_functions_test.c
+   28  gcc user_functions_test.c 
+   29  nano user_functions_test.c
+   30  gcc user_functions_test.c 
+   31  ./a.out 
+   32  nano user_functions_test.c
+   33  gcc user_functions_test.c 
+   34  ./a.out 
+   35  68
+   36  678
+   37  nano user_functions_test.c
+   38  cp user_functions_test.c user_functions_test_better.c
+   39  nano user_functions_test_better.c 
+   40  gcc user_functions_test_better.c 
+   41  nano user_functions_test_better.c 
+   42  gcc user_functions_test_better.c 
+   43  nano user_functions_test_better.c 
+   44  gcc user_functions_test_better.c 
+   45  ./a.out 
+   46  nano user_functions_test_better.c 
+   47  ls -lt
+   48  gcc -g user_functions_test_better.c 
+   49  ls -lt
+   50  ./a.out 
+   51  7
+   52  gdb a.out
+   53  cd RTR105/
+   54  cd Class_013
+   55  ls
+   56  nano main_witharguments.c
+   57  gcc main_witharguments.c 
+   58  ./a.out 
+   59  nano main_witharguments.c
+   60  gcc main_witharguments.c 
+   61  ./a.out 
+   62  nano main_witharguments.c
+   63  git-upload
+   64  git upload
+   65  history > history041122.txt

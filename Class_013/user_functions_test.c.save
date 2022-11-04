@@ -1,0 +1,52 @@
+// lietotāju funkcijas tiek pielietotas vairākkārtejai vienu un to pašu koda fragmentu pildīšanai (pašas koda rindiņas ir aprakstītas tikai vienu reizi)
+
+#include<stdio.h>
+
+//funkcijas_datu_tips funkcijas_vārds();- tā ir deklarēšana
+//funkcijas_datu_tips funkcijas_vārds(){}- tā ir definēšana
+
+void dialogs() //tāpat kā mainīgajiem, funkcijai ir datu tips funkcijas datu tips parasti saskaņots ar atgriežama (return) leluma (mainīgais vai izteiksme) datu tips, ja nav paredzēts, ka funkcija kaut ko atgieizīs- datu tips- void
+
+{
+char c_dialogs_local;
+
+printf("Cienījamais lietotāj, lūdzu, ievadi vienu naturālo skaitli: ");
+scanf("%hhd",&c_dialogs_local);
+printf("Ievadītais skaitlis (izvade no dialogs): %hhd\n",c_dialogs_local);
+}
+
+void dialogs() //tāpat kā mainīgajiem, funkcijai ir datu tips funkcijas datu tips parasti saskaņots ar atgriežama (return) leluma (mainīgais vai izteiksme) datu tips, ja nav paredzēts, ka funkcija kaut ko atgie$
+
+{
+char c_dialogs_local;
+
+printf("Cienījamais lietotāj, lūdzu, ievadi vienu naturālo skaitli: ");
+scanf("%hhd",&c_dialogs_local);
+printf("Ievadītais skaitlis (izvade no dialogs): %hhd\n",c_dialogs_local);
+}
+
+int main()
+{
+//char c;
+char c_main_local;
+
+/*
+printf("Cienījamais lietotāj, lūdzu, ievadi vienu naturālo skaitli: ");
+scanf("%hhd",&c);
+printf("Ievadītais skaitlis: %hhd\n",c);
+*/
+
+dialogs();
+
+{;;;;;;;} // kāds cits koda fragments
+
+/*
+printf("Cienījamais lietotāj, lūdzu, ievadi vienu naturālo skaitli: ");
+scanf("%hhd",&c);
+printf("Ievadītais skaitlis: %hhd\n",c);
+*/
+
+dialogs();
+
+return 0;
+}
